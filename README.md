@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Luan
+# 👋 Hi, I'm LC
 
-🎓 Engineering graduate from **EIGSI**, passionate about **Web Development**, **Artificial Intelligence**, and **Data**.  
+🎓 Engineering graduate from **France**, passionate about **Web Development**, **Artificial Intelligence**, and **Data**.  
 💡 I love building projects that mix creativity, code, and real-world impact.  
 🚀 Future goal: become an **independent tech entrepreneur**.
 
@@ -26,15 +26,15 @@
 
 ## 📊 GitHub Stats
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanlabs&show_icons=true&theme=tokyonight)  
+![LC's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanlabs&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanlabs&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect with me
 
-[💼 LinkedIn](https://www.linkedin.com/in/luan-caillavet)  
-[📫 Email](mailto:luan.caillavet.25@eigsi.fr)
+[💼 LinkedIn](https://www.linkedin.com/in/)  
+[📫 Email](mailto:)
 
 ---
 
