@@ -16,9 +16,7 @@
 
 ## 💼 Featured Projects
 
-- 🔹 **Carduino** — Arduino-based project with a web dashboard interface.  
-- 🔹 **AI Web Assistant** — Lightweight AI integration into a web interface.  
-- 🔹 **Crypto Data Dashboard** — Real-time cryptocurrency tracking tool.  
+- 🔹 **Arduino 3D printed robot arm** — Arduino-based project with a user interface.  
 
 *(More projects coming soon...)*
 
